@@ -1,0 +1,58 @@
+export const DATA = [
+  {
+    filterName: "blur",
+    min: 0,
+    max: 1,
+    unit: "px",
+    defVal: 0,
+  },
+  {
+    filterName: "brightness",
+    min: 0,
+    max: 200,
+    unit: "%",
+    defVal: 100,
+  },
+  {
+    filterName: "contrast",
+    min: 0,
+    max: 200,
+    unit: "%",
+    defVal: 100,
+  },
+  {
+    filterName: "grayscale",
+    min: 0,
+    max: 100,
+    unit: "%",
+    defVal: 0,
+  },
+  {
+    filterName: "invert",
+    min: 0,
+    max: 100,
+    unit: "%",
+    defVal: 0,
+  },
+  {
+    filterName: "opacity",
+    min: 0,
+    max: 100,
+    unit: "%",
+    defVal: 100,
+  },
+  {
+    filterName: "saturate",
+    min: 0,
+    max: 100,
+    unit: "%",
+    defVal: 100,
+  },
+  {
+    filterName: "sepia",
+    min: 0,
+    max: 100,
+    unit: "%",
+    defVal: 0,
+  },
+];
